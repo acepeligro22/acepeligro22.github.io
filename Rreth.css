@@ -205,7 +205,7 @@
     height: 3px;
   }
   #mobile-menu {
-    margin-top: 0.3rem;
+    margin-top: 0.2rem;
     margin-right: 0.7rem;
   }
 }
@@ -217,8 +217,7 @@
     height: 3px;
   }
   #ac-mobile-menu {
-    margin-top: 0.6rem;
-    margin-left: 0.1rem;
+    margin-top: 0.2rem;
   }
 }
 
@@ -483,7 +482,7 @@
 
 @media screen and (max-width: 280px) {
   .ac-main {
-    height: 280vh;
+    height: 320vh;
   }
   .ac-main__container {
     display: grid;
@@ -517,7 +516,7 @@
     width: 90%;
     height: 90%;
     position: absolute;
-    top: 1500px;
+    top: 1800px;
     right: 20px;
   }
 }
